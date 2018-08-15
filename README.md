@@ -5,4 +5,6 @@ This project is an analysis of time usage using SparkSQL and other Spark APIs
    2)  do women and men spend the same amount of time in working?
    3)  does the time spent on primary needs change when people get older?
    4)  how much time do employed people spend on leisure compared to unemployed people?
+   
+   
   This project makes use of Apache Spark and its parallel computing capabilities over a dataset(A CSV file provided by http://alaska.epfl.ch/~dockermoocs/bigdata/atussum.csv .Concepts of both dataframes and datasets are utilized to solve and see their different rates of efficiency.  
